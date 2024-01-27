@@ -47,7 +47,7 @@ I created visualizations using tableau to communicate the results of my analysis
 https://public.tableau.com/app/profile/jace.chua/viz/Cyclistic2022data/Dashboard1 
 
 After identifying the differences between casual and member riders, marketing strategies to target casual riders can be developed to persuade them to become members.
-Recommendations:
+Recommendations, I have a more indepth powerpoint presentation linked in my github project page but here is the gist of my findings:
 
 Marketing campaigns might be conducted in spring and summer at tourist/recreational locations popular among casual riders.
 Casual riders are most active on weekends and during the summer and spring, thus they may be offered seasonal or weekend-only memberships.
